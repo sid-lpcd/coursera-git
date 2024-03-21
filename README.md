@@ -1,2 +1,3 @@
 # coursera-git
-Practice account for learning Git
+Practice account for learning Git 
+New minor changes Test
